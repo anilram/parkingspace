@@ -1,0 +1,10 @@
+com\parkopedia\project\user\UserRepository.class
+com\parkopedia\project\user\UserController.class
+com\parkopedia\project\parkingslot\ParkingSlotRepository.class
+com\parkopedia\project\parkingslot\ParkingSlotController.class
+com\parkopedia\project\Application.class
+com\parkopedia\project\user\User.class
+com\parkopedia\project\feedback\FeedBackRepository.class
+com\parkopedia\project\parkingslot\ParkingSlot.class
+com\parkopedia\project\feedback\FeedBackController.class
+com\parkopedia\project\feedback\FeedBack.class

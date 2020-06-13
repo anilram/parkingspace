@@ -1,0 +1,190 @@
+body {
+    background:#f8f9fa!important;
+}
+.form_bg {
+    background-color:#eee;
+    color:#666;
+    padding:20px;
+    border-radius:10px;
+    position: absolute;
+    border:1px solid #fff;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 320px;
+    height: 280px;
+}
+.align-center {
+    text-align:center;
+}
+
+.header{
+	background-image: url(images/menubackground.jpg);
+    background-size: cover;
+	text-align:center;
+}
+
+
+.header .title{
+	font-size:2em;
+	font-weight:bold;
+	color:indigo;
+}
+
+.footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: url(images/menubackground.jpg);
+  background-size: cover;
+  color: indigo	;
+  text-align: center;
+}
+
+.row{
+	text-align:center;
+}
+.nav-item{
+	cursor:pointer;
+}
+
+#container{
+	min-height:24em;
+	background-image: url("images/Car-Parking.jpg");
+    background-size: cover;
+    color: white;
+}
+
+img{
+	width:16px;
+}
+
+.LocationDetailsSection__title{
+	color:#2963a3;
+}
+
+.space{
+	margin:0.2em;
+}
+
+p.prices {
+    font-size: 1.6em;
+	font-weight: bold;
+	color:#2963a3;
+}
+
+p.pricessubheading {
+    font-size: 1.2em;
+	font-weight: bold;
+}
+
+p.free{
+	font-size:1.2em;
+	color:#42b672;
+	font-weight:bold;
+}
+.active{
+	font-weight:bold !important;
+}
+table {
+    display: inline-block;
+}
+.feedback-title{
+	font-size: 1.6em;
+	font-weight: bold;
+	color:#2963a3;
+}
+
+.center-align{
+	text-align:center;
+	vertical-align:middle;
+}
+
+.active-cyan-2 input.form-control[type=text]:focus:not([readonly]) {
+              border-bottom: 1px solid #2963a3;
+              box-shadow: 0 1px 0 0 #2963a3;
+            }
+            .active-cyan input.form-control[type=text] {
+
+              border-bottom: 1px solid #2963a3;
+              box-shadow: 0 1px 0 0 #2963a3;
+            }
+
+#booking-list-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#booking-list-table td, #booking-list-table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#booking-list-table tr:nth-child(even){background-color: #bbb;}
+
+#booking-list-table tr:hover {background-color: #ddd;}
+
+#booking-list-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #2963a3;
+  color: white;
+}
+
+.padding {
+    padding: 5rem !important;
+    margin-left: 300px
+}
+
+.card {
+    margin-bottom: 1.5rem
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #c8ced3;
+    border-radius: .25rem
+}
+
+.card-header:first-child {
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #f0f3f5;
+    border-bottom: 1px solid #c8ced3
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem
+}
+
+.form-control:focus {
+    color: #5c6873;
+    background-color: #fff;
+    border-color: #c8ced3 !important;
+    outline: 0;
+    box-shadow: 0 0 0 #F44336;
+}
+
+.alert{
+	display:none;
+}
+.modal{
+	color:black;
+}
